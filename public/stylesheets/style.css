@@ -1,0 +1,55 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.header-title {
+  font-family: 'Paytone One', sans-serif;
+  margin-top: 15px;
+  font-size: 18px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  border-top: white;
+  border-bottom: #5F8BA7;
+  border-width: 1px;
+  border-style: solid;
+  border-left: white;
+  border-right: white;
+}
+
+.navbar-brand{
+  padding: 0px 15px;
+}
+
+.body-header {
+  font-size: 22px;
+  padding-left: 90px;
+}
+
+.table-container{
+  padding-left: 10px;
+}
+
+.table-data{
+  margin-top: 60px;
+}
+
+.table-row{
+  padding-left: 60px;
+}
+
+img{
+  height: 50px;
+  width: 60px;
+}
